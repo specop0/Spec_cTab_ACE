@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ID="Arma3">
+    <Package ID="Spec_cTab_ACE">
+        <Container ID="General">
+            <Key ID="STR_cTab_Android">
+                <Original>Android</Original>
+                <English>Android</English>
+                <German>Android</German>
+            </Key>
+            <Key ID="STR_cTab_Dock">
+                <Original>Dock</Original>
+                <English>Dock</English>
+                <German>Docken</German>
+            </Key>
+            <Key ID="STR_cTab_Undock">
+                <Original>Undock</Original>
+                <English>Undock</English>
+                <German>Abdocken</German>
+            </Key>
+            <Key ID="STR_cTab_Tablet">
+                <Original>Tablet</Original>
+                <English>Tablet</English>
+                <German>Tablet</German>
+            </Key>
+        </Container>
+    </Package>
+</Project>
