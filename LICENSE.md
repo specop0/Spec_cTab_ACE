@@ -1,4 +1,4 @@
-Copyright (c) 2016, SpecOp0
+Copyright (c) 2018, SpecOp0
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose without fee in clear text is hereby granted, provided that the above
