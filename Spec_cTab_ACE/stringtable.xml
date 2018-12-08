@@ -8,14 +8,14 @@
                 <German>Android</German>
             </Key>
             <Key ID="STR_cTab_Dock">
-                <Original>Dock</Original>
-                <English>Dock</English>
-                <German>Docken</German>
+                <Original>Show</Original>
+                <English>Show</English>
+                <German>Zeige</German>
             </Key>
             <Key ID="STR_cTab_Undock">
-                <Original>Undock</Original>
-                <English>Undock</English>
-                <German>Abdocken</German>
+                <Original>Close</Original>
+                <English>Close</English>
+                <German>Schließe</German>
             </Key>
             <Key ID="STR_cTab_Tablet">
                 <Original>Tablet</Original>
